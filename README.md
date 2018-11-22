@@ -1,6 +1,6 @@
 ### esl
 ---
-https://github.com/duojs/duo
+https://github.com/ecomfe/esl
 
 ```
 ```
